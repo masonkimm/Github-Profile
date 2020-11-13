@@ -9,7 +9,7 @@
 *[Weather-Checker](https://sungjinkimm.github.io/weather-checker/) 
 *[Snippet-Bank](https://snippetsbank.herokuapp.com/)
 
-![pic](https://i.pinimg.com/originals/a2/dc/96/a2dc9668f2cf170fe3efeb263128b0e7.gif)
+![pic](https://imgs.abduzeedo.com/files/felipe_mahalem/2.gif)
 
 
 ## License: 
