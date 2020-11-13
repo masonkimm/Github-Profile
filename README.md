@@ -3,10 +3,13 @@
 
 
 ## Portfolio
-[https://github.com/sungjinkimm](https://github.com/sungjinkimm)
+[Portfolio](https://sungjinkimm.github.io/portfolio-mk/)
 
+## Projects
+[Weather-Checker](https://sungjinkimm.github.io/weather-checker/)
+[Snippet-Bank](https://snippetsbank.herokuapp.com/)
 
-![pic](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)
+![pic](https://assets.materialup.com/uploads/d897134f-48d1-4302-b3fd-ea045f3d4151/preview.gif)
 
 
 ## License: 
