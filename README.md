@@ -3,7 +3,7 @@
 
 
 ## Portfolio
-[Portfolio](https://sungjinkimm.github.io/portfolio-mk/)
+- [Personal Portfolio](https://sungjinkimm.github.io/portfolio-mk/)
 
 ## Projects
 - [Weather-Checker](https://sungjinkimm.github.io/weather-checker/) 
