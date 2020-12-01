@@ -6,11 +6,11 @@
 [Portfolio](https://sungjinkimm.github.io/portfolio-mk/)
 
 ## Projects
--[Weather-Checker](https://sungjinkimm.github.io/weather-checker/) 
--[Snippet-Saver](https://snippetsbank.herokuapp.com/)
--[Modelier](https://modelier.herokuapp.com/)
--[React To Do - List](https://sungjinkimm.github.io/reactTodoList/)
--[Covid-Checker](https://koutron.github.io/Project-CoviDex/)
+- [Weather-Checker](https://sungjinkimm.github.io/weather-checker/) 
+- [Snippet-Saver](https://snippetsbank.herokuapp.com/)
+- [Modelier](https://modelier.herokuapp.com/)
+- [React To Do - List](https://sungjinkimm.github.io/reactTodoList/)
+- [Covid-Checker](https://koutron.github.io/Project-CoviDex/)
 
 ![pic](https://imgs.abduzeedo.com/files/felipe_mahalem/2.gif)
 
