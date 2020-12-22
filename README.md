@@ -4,15 +4,16 @@
 
 ## Portfolio
 - [React Portfolio](https://sungjinkimm.github.io/portfolio-kim)
-- [Personal Portfolio](https://sungjinkimm.github.io/portfolio-mk/)
+
 
 ## Projects
-- [Covid-Checker](https://covid-tracker-4fa84.web.app)
+- [To-Do List](https://sungjinkimm.github.io/todo-list)
+- [Weather Checker](https://sungjinkimm.github.io/weather-checker) 
+- [Covid Checker](https://covid-tracker-4fa84.web.app)
+- [Snippet Saver](https://snippetsbank.herokuapp.com)
 - [Netflix-Clone](https://netflix-clone-2d7bd.web.app)
-- [Weather-Checker](https://sungjinkimm.github.io/weather-checker/) 
-- [Snippet-Saver](https://snippetsbank.herokuapp.com/)
-- [Modelier](https://modelier.herokuapp.com/)
-- [React To Do - List](https://sungjinkimm.github.io/reactTodoList/)
+
+
 
 
 ![pic](https://imgs.abduzeedo.com/files/felipe_mahalem/2.gif)
